@@ -1,0 +1,8 @@
+@media screen and (max-width: 500px) {
+    .img {
+      width: 100%;
+      background-color: red;
+      text-align: center;/* The width is 100%, when the viewport is 800px or smaller */
+    }
+    
+  }
